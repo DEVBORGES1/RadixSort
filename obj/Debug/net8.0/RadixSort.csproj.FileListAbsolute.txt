@@ -1,0 +1,14 @@
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\bin\Debug\net8.0\RadixSort.exe
+C:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\bin\Debug\net8.0\RadixSort.deps.json
+C:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\bin\Debug\net8.0\RadixSort.runtimeconfig.json
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\bin\Debug\net8.0\RadixSort.dll
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\bin\Debug\net8.0\RadixSort.pdb
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\obj\Debug\net8.0\RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\obj\Debug\net8.0\RadixSort.AssemblyInfoInputs.cache
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\obj\Debug\net8.0\RadixSort.AssemblyInfo.cs
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\obj\Debug\net8.0\RadixSort.csproj.CoreCompileInputs.cache
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\obj\Debug\net8.0\RadixSort.dll
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\obj\Debug\net8.0\refint\RadixSort.dll
+c:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\obj\Debug\net8.0\RadixSort.pdb
+C:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\obj\Debug\net8.0\RadixSort.genruntimeconfig.cache
+C:\Users\JAPA\Desktop\projetos do curso\RadixSort\RadixSort\obj\Debug\net8.0\ref\RadixSort.dll
